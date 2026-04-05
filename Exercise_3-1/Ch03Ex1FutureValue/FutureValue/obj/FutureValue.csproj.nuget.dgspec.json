@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jonathantorres/COP2839/Exercise_3-1/Ch03Ex1FutureValue/FutureValue/FutureValue.csproj": {}
+  },
+  "projects": {
+    "/Users/jonathantorres/COP2839/Exercise_3-1/Ch03Ex1FutureValue/FutureValue/FutureValue.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonathantorres/COP2839/Exercise_3-1/Ch03Ex1FutureValue/FutureValue/FutureValue.csproj",
+        "projectName": "FutureValue",
+        "projectPath": "/Users/jonathantorres/COP2839/Exercise_3-1/Ch03Ex1FutureValue/FutureValue/FutureValue.csproj",
+        "packagesPath": "/Users/jonathantorres/.nuget/packages/",
+        "outputPath": "/Users/jonathantorres/COP2839/Exercise_3-1/Ch03Ex1FutureValue/FutureValue/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jonathantorres/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
