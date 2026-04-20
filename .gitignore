@@ -1,0 +1,10 @@
+bin/
+obj/
+.DS_Store
+*.user
+.vs/
+.idea/
+*.db
+*.db-shm
+*.db-wal
+*.zip
